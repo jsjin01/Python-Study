@@ -1,7 +1,10 @@
 Python Study
-##
 
-#Level 1. Python의 기초
+##날짜 => 월~금 정오(12시~2시)
+##목적 => discord Bot 제작
+
+##24.12.29 ~ 25.02.01
+# Level 1. Python의 기초
 ## 자료형 
 - char, string, bool, int, double, float + fomating 
 - 자료형의 형 변환
@@ -39,7 +42,10 @@ Python Study
 -고급 데이터 구조 : Stack, Queue, Linked List, Tree, Graph, Heap
 
 ##알고리즘 
-- 정렬 알고리즘 : 버블 정렬, 삽입 정렬, 병합 정렬, 퀵 정렬
+- 정렬 알고리즘 : 버블 정렬, 삽입 정렬, 병합 정렬, 퀵정렬
 - 탐색 알고리즘 : 선형 탐색, 이진 탐색
 - 그래프 알고리즘 : DFS(깊이 우선 탐색), BFS(너비 우선 탐색)
 - 나머지 알고리즘 : Divide and Conquer, Dynamic Programing, Greedy Algorithm, 이진 탐색 트리, 최단 경로 알고리즘
+
+##25.02.01 ~ 25.03.01
+Discord Bot 제작=> SQL
