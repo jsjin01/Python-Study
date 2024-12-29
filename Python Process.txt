@@ -1,0 +1,45 @@
+Python Study
+##
+
+#Level 1. Python의 기초
+## 자료형 
+- char, string, bool, int, double, float + fomating 
+- 자료형의 형 변환
+- dictionary, array, tuple, list, set
+- indexing & slicing
+
+## 제어 & 반복 & 함수
+- Python의 입출력
+- 함수 (전역& 지역 변수, 피라미터, return 값)
+- if & switch
+- while & for
+
+## module & file
+- module 생성 및 불러오기
+- file 생성 및 불러오기
+
+#Level 2. 객체 지향 프로그래밍
+##객체와 class
+- class & 객체 생성
+- 인스턴스 변수와 메서드 
+- 참조(C++하고 다름;;)
+
+##상속과 다형성
+-부모 클래스 & 자식 클래스
+-오버로딩 & 오버라이딩
+-캡슐화
+
+ ##module & package
+ -모듈화
+
+#Level 3. 데이터 구조 & 알고리즘 
+=>코딩보단 이론 위주
+##데이터 구조
+-기본 데이터 구조 : List, Tuple, Dictionary, set
+-고급 데이터 구조 : Stack, Queue, Linked List, Tree, Graph, Heap
+
+##알고리즘 
+- 정렬 알고리즘 : 버블 정렬, 삽입 정렬, 병합 정렬, 퀵 정렬
+- 탐색 알고리즘 : 선형 탐색, 이진 탐색
+- 그래프 알고리즘 : DFS(깊이 우선 탐색), BFS(너비 우선 탐색)
+- 나머지 알고리즘 : Divide and Conquer, Dynamic Programing, Greedy Algorithm, 이진 탐색 트리, 최단 경로 알고리즘
