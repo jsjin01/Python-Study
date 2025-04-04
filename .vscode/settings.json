@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "MJsec_Python_Stady"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
