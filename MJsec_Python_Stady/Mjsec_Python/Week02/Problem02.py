@@ -17,3 +17,8 @@ for s in S:
         front_s = s
     
 print(count)
+
+
+# One = [i for i in s.split("0") if i =""]
+# Zero = [i for i in s.split("1") if i =""]
+# print(min(len(One), len(Zero)))
