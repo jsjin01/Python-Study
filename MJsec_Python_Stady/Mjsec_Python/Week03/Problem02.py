@@ -22,12 +22,12 @@ for i in range(N):
 ##시간 초과 => Why? O(N^2) => 25억번의 계산 시도가 일어남
 ##시간 초과가 일어나지 않게 하기 위해서는 
 ##버블 sort를 하지 않고 계산
-## 정렬 전 후의 인덱스 차이를 계산하면 됨
+##정렬 전 후의 인덱스 차이를 계산하면 됨
 
 idx = list(range(N))
 ##초기화 방식식
 idx.sort(key = lambda i : list_input[i])
-##람다식으로 내가 필요한 값을 받을 수 있음음
+##람다식으로 내가 필요한 값을 받을 수 있음
 max_n = 0
 for i in range(N):
     diff = idx[i] - i
