@@ -5,16 +5,16 @@ T = int(input().rstrip())
 
 for _ in range(T):
     H, W ,N = map(int, input().rstrip().split())
-    if H ==0 :
-        h = H
-        w = H // N
-    else:
-        #거리
-        w = N // H + 1
-        #층수
-        h = N % H
-    if w < 10:
-        w = "0"+str(w)
-    s = str(h)+w
-    print(s)
 
+    # 층수 계산
+    h = N % H
+    
+    if h == 0:
+        h = H
+        w = N // H
+    else:
+        w = N // H + 1
+
+    # 호수를 두 자리 문자열로 만들기
+    room = str(h) + (f"{w:02}")
+    print(room)
